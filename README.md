@@ -2,7 +2,7 @@ UniversalScanner PWA
 UniversalScanner ist eine Progressive Web App (PWA), die entwickelt wurde, um den Prozess des Hochladens von Lieferscheinen (PDF, Excel, CSV), des Extrahierens von Produktinformationen (EAN, Produkt, Menge, Details) und des Scannens von EANs für die Lagerverwaltung zu vereinfachen. Die App ermöglicht es Ihnen, den Bestand zu verfolgen, gescannte Mengen anzupassen und die Daten für die weitere Verarbeitung zu exportieren.
 
 Funktionen
-Lieferschein-Upload: Laden Sie Lieferscheine im PDF-, Excel- (.xlsx, .xls) oder CSV-Format hoch.
+Lieferschein-Upload: Laden Sie Lieferscheine, Auftragsbestätigung oder Rechnungen im PDF-, Excel- (.xlsx, .xls) oder CSV-Format hoch.
 
 Intelligente Datenextraktion: Nutzt KI (über konfigurierbare APIs) zur Extraktion von EANs, Produktnamen, Mengen und zusätzlichen Details aus hochgeladenen Dokumenten.
 
